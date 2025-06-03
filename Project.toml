@@ -1,0 +1,16 @@
+name = "DCOPF"
+uuid = "6e2b4f8d-9a3e-4f9c-b2a7-3c1d5e6f8a9b"
+authors = ["Shaban Satti <ishabansatti@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+PowerSystems = "bff84e7e-2c5e-4e7b-a5c7-6b8e8f7b9c2a"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+PiecewiseLinearOpt = "7b9d9f9e-77c8-4d6e-9b3e-6b9e8f7b9c2a"
+HiGHS = "87dc56ce-ce93-4e7d-bce0-95b7b04a6e44"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
